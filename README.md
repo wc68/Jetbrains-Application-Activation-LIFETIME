@@ -26,4 +26,4 @@ Please email to me if you want to purchase this service. **LIFETIME**
 
 Email📫: westcircle0608@gmail.com
 
-Amount: **50 USD**. Supported Payment Method: Web3 Wallet / PAYPAL, Supported Payment Currency: USDT / USD.
+Amount: **60 USD**. Supported Payment Method: Web3 Wallet, Supported Payment Currency: USDT.
