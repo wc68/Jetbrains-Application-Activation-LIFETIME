@@ -6,7 +6,7 @@ We provide licensing activation service for Jetbrains Applications.
 
 **VERSION: 2025.1.3**
 
-**Supported Application:**
+**Supported Application: (ALL INCLUDED)**
 
 - IntelliJ IDEA
 - PyCharm
@@ -26,4 +26,4 @@ Please email to me if you want to purchase this service. **LIFETIME**
 
 Email📫: westcircle0608@gmail.com
 
-Supported Payment Method: Web3 Wallet, Supported Payment Currency: USDT.
+Amount: **50 USD**. Supported Payment Method: Web3 Wallet / PAYPAL, Supported Payment Currency: USDT / USD.
