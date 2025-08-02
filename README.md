@@ -2,7 +2,7 @@
 
 Jetbrains Application Latest **LIFETIME** Subscription/Activation
 
-We provide licensing for Jetbrains Applications Activation Services
+We provide licensing activation service for Jetbrains Applications.
 
 **VERSION: 2025.1.3**
 
